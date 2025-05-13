@@ -2,7 +2,7 @@
 An interactive retail analytics project built with **Tableau** to analyze sales and profitability trends for a grocery retail chain using data from 2015 to 2018. This project leverages data storytelling, visual dashboards, calculated fields, and user-defined parameters to uncover insights on customer segments, regional performance, product categories, and sales strategies.
 ## 📁 Repository Structure
 ### 📂 Dataset
-- [Supermart Grocery Sales - Retail Analytics Dataset (2).csv][https://github.com/Samplergithub769/Supermart-Grocery-Sales-Project/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset%20(2).csv]
+- [Supermart Grocery Sales - Retail Analytics Dataset (2).csv](https://github.com/Samplergithub769/Supermart-Grocery-Sales-Project/blob/main/Supermart%20Grocery%20Sales%20-%20Retail%20Analytics%20Dataset%20(2).csv)
 ## 📊 Key Dashboards
 1. **Sales and Profit Analysis (2015–2018)**
    ![image](https://github.com/user-attachments/assets/709ec855-4bea-4694-b3b3-93ba63147b29)
