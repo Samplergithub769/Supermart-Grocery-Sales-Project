@@ -14,13 +14,14 @@ An interactive retail analytics project built with **Tableau** to analyze sales 
    
    ![image](https://github.com/user-attachments/assets/5bdb8399-cd49-4e96-a793-8613687aa8a7)
 4. **Sales Trends by Delivery, Segment, and Discount Strategy**
+
+   ![image](https://github.com/user-attachments/assets/1711179a-7346-474c-8ac8-d2549a7e152b)
+6. **Order Quantity Analysis**
    
    ![image](https://github.com/user-attachments/assets/e5cdc93b-ec83-4e16-ac80-311dc3e680c5)
-5. **Order Quantity Analysis**
-   
-   ![image](https://github.com/user-attachments/assets/1711179a-7346-474c-8ac8-d2549a7e152b)
    
 🌐 Check Out My Tableau Public
+
 👉 https://public.tableau.com/app/profile/shaily.singh/viz/FinalGrocerySalesProject/SupermartgrocerySales
 
 
