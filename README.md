@@ -20,8 +20,10 @@ An interactive retail analytics project built with **Tableau** to analyze sales 
    
    ![image](https://github.com/user-attachments/assets/e5cdc93b-ec83-4e16-ac80-311dc3e680c5)
 
-🌐 Check Out My Tableau Public
-👉 https://public.tableau.com/app/profile/shaily.singh/viz/FinalGrocerySalesProject/SupermartgrocerySales
+## 🌐 Check Out My Tableau Public
+
+👉
+[https://public.tableau.com/app/profile/shaily.singh/viz/FinalGrocerySalesProject/SupermartgrocerySales]
 
 
 
