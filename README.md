@@ -1,1 +1,2 @@
 # Supermart-Grocery-Sales-Project
+An interactive retail analytics project built with **Tableau** to analyze sales and profitability trends for a grocery retail chain using data from 2015 to 2018. This project leverages data storytelling, visual dashboards, calculated fields, and user-defined parameters to uncover insights on customer segments, regional performance, product categories, and sales strategies.
